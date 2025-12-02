@@ -15,7 +15,7 @@ Overview of the steps taken to process and explore the data in the marketing cam
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Excel file located in `/data/` folder
+- Dataset provided in Excel file 
 - Summary table created from ingested data and used for analysis
   
 ---
